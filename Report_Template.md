@@ -8,8 +8,8 @@
 | 任务 | 负责同学 | Commit Hash | 贡献说明 |
 |---|---|---|---|
 | Task A | 王也可 | b97fcbaa58bf20b894dac74ed3739309dc2d9d27 |  完成TaskA|
-| Task B | 苏哲 |  |  |
-| Task C | 苏哲 |  |  |
+| Task B | 苏哲 | d66dd4b382b616003d3788ba96cae7160af317f1 | 完成TaskB |
+| Task C | 苏哲 | d66dd4b382b616003d3788ba96cae7160af317f1 | 完成TaskC |
 | Bonus | 钟一鸣 |ed70fd581237c26bc1f32a083b548f323eb277e7  |  给出具体代码|
 
 ---
