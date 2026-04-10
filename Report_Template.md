@@ -10,7 +10,7 @@
 | Task A | 王也可 | b97fcbaa58bf20b894dac74ed3739309dc2d9d27 |  完成TaskA|
 | Task B |  |  |  |
 | Task C |  |  |  |
-| Bonus | 钟一鸣 |  |  给出具体代码|
+| Bonus | 钟一鸣 |ed70fd581237c26bc1f32a083b548f323eb277e7  |  给出具体代码|
 
 ---
 
@@ -92,6 +92,6 @@
 
 ## 6. AI 代码审查记录（必填）
 
-- 你使用的关键 Prompt：  
+- 你使用的关键 Prompt：  实现二维高斯 - 勒让德积分，计算边长 10m、质量 1e4kg 的均匀方板，对中心正上方 z 处 1kg 质点的 z 向引力 Fz，完成 gauss_legendre_2d、plate_force_z、force_curve 三个函数，并计算 z∈[0.2,10] 的结果
 - AI 输出中你识别出的错误或不严谨点（至少 2 条）：  
 - 你的修正依据（数值分析 or 物理约束）：  
