@@ -7,7 +7,7 @@
 
 | 任务 | 负责同学 | Commit Hash | 贡献说明 |
 |---|---|---|---|
-| Task A | 王也可 |  |  完成TaskA|
+| Task A | 王也可 | b97fcbaa58bf20b894dac74ed3739309dc2d9d27 |  完成TaskA|
 | Task B |  |  |  |
 | Task C |  |  |  |
 | Bonus | 钟一鸣 |  |  给出具体代码|
